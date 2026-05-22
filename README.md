@@ -13,7 +13,6 @@
     <img src="https://i.imgur.com/hFblTFR.png" alt="goggle" width="60" height="60" class="goggle">
     <img src="https://i.imgur.com/GVxVJ8I.png" alt="g-mail" width="60" height="60" class="g-mail">
     <img src="https://i.imgur.com/c491f3t.png" alt="telefone" width="60" height="60" class="telefone">
-   
 </style>
 
 
