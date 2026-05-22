@@ -9,7 +9,7 @@
    </a>
 
 <style>
-   <img src="https://i.imgur.com/hFblTFR.png" alt="goggle" width="50" height="50" class="goggle">
+   <img src="https://i.imgur.com/hFblTFR.png" alt="goggle" width="70" height="70" class="goggle">
 
 </style>
 
