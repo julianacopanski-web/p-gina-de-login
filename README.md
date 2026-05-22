@@ -10,7 +10,7 @@
 
 <style>
    <img src="https://i.imgur.com/hFblTFR.png" alt="goggle" width="60" height="60" class="goggle">
-   <img src="https://imgur.com/oi66qQe" alt=
+   <img src="https://i.imgur.com/oi66qQe.png" alt="agrosync" width="100" height="100" class="agrosync">
 </style>
 
 
